@@ -1,5 +1,4 @@
 # Weather App
-#### Video Demo:  <https://youtu.be/0NRBLoouS5Y>
 
 ## Description:
 This is my Weather App created using the Javascript React Library.
